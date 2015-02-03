@@ -1,2 +1,0 @@
-# hellow
-As tutorial suggested
